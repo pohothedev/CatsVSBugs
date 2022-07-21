@@ -1,0 +1,26 @@
+{
+  "name": "catsvsbugs",
+  "version": "1.0.0",
+  "description": "Cats vs Bugs TD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohothedev/CatsVSBugs.git"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "po_ho",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pohothedev/CatsVSBugs/issues"
+  },
+  "homepage": "https://github.com/pohothedev/CatsVSBugs#readme",
+  "devDependencies": {
+    "vite": "^3.0.2"
+  }
+}
