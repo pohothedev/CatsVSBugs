@@ -22,5 +22,8 @@
   "homepage": "https://github.com/pohothedev/CatsVSBugs#readme",
   "devDependencies": {
     "vite": "^3.0.2"
+  },
+  "dependencies": {
+    "three": "^0.142.0"
   }
 }
